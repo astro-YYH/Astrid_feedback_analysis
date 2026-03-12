@@ -89,12 +89,7 @@ Code for halo mass-profile extraction and density-profile comparison.
 	Loads precomputed profile catalogs and matched halo lists, then compares stacked density-profile ratios between hydro and DMO runs.
 
 	The notebook currently focuses on `z = 0` and plots three halo-mass bins, showing
-
-	$$
-	\rho_\mathrm{hydro}(r) / \rho_\mathrm{DMO}(r)
-	$$
-
-	for four simulation variants, with percentile bands and a reference line marking the median DMO `R500c` in each mass bin.
+	the ratio of hydro to DMO density profiles as a function of radius for four simulation variants, with percentile bands and a reference line marking the median DMO `R500c` in each mass bin.
 
 ### `black_hole/`
 
