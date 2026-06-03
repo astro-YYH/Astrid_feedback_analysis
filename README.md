@@ -1,4 +1,4 @@
-This repository contains analysis code and notebooks for studying black hole feedback, host halos, and halo density profiles in cosmological simulations run with MP-Gadget (https://github.com/MP-Gadget/MP-Gadget). The code was used in Yang et al. 2026.
+This repository contains analysis code and notebooks for studying black hole feedback, host halos, and halo density profiles in cosmological simulations run with MP-Gadget (https://github.com/MP-Gadget/MP-Gadget). The code was used in Yang et al. 2026 (https://arxiv.org/abs/2605.04176).
 
 The code is organized into two workflows:
 
