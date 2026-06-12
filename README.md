@@ -168,3 +168,6 @@ The `.npz` files in this directory are precomputed black hole and BH-host-halo c
 - The repository contains both code and precomputed intermediate products.
 - Several notebooks assume specific filenames already exist in the working directory.
 
+## License
+
+This software is distributed under the MIT License. See `LICENSE` for details.
