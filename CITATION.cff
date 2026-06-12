@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived Zenodo release."
+title: "Analysis code for black hole feedback and halo profiles in Astrid simulations"
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Yanhui"
+version: "v1.0.0"
+date-released: "2026-06-12"
+repository-code: "https://github.com/astro-YYH/Astrid_feedback_analysis"
+doi: "10.5281/zenodo.20667014"
+url: "https://doi.org/10.5281/zenodo.20667014"
+license: "MIT"

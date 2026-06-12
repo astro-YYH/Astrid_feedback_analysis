@@ -1,5 +1,11 @@
 This repository contains analysis code and notebooks for studying black hole feedback, host halos, and halo density profiles in cosmological simulations run with MP-Gadget (https://github.com/MP-Gadget/MP-Gadget). The code was used in Yang et al. 2026 (https://arxiv.org/abs/2605.04176).
 
+## Citation
+
+If you use this software, please cite the archived Zenodo release:
+
+Yanhui Yang. Analysis code for black hole feedback and halo profiles in Astrid simulations. Zenodo. https://doi.org/10.5281/zenodo.20667014
+
 The code is organized into two workflows:
 
 1. `mass_profile/`: compute cumulative halo mass profiles from `PIG_*_subfind` catalogs and compare stacked density profiles between matched halos.
