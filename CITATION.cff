@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: "Yang"
     given-names: "Yanhui"
+    orcid: "https://orcid.org/0000-0001-6221-6024"
 version: "v1.0.0"
 date-released: "2026-06-12"
 repository-code: "https://github.com/astro-YYH/Astrid_feedback_analysis"
